@@ -3,6 +3,7 @@
 
     <FilePath Value="www/index.html"/>
     <FilePath Value="www/contacts.html"/>
+    <FilePath Value="www/contact.js"/>
     <FilePath Value="www/phonegap-base.js"/>
 
     <FilePath Value="www/debugconsole.js"/>
